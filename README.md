@@ -26,7 +26,12 @@ Consulta inicial de bajo costo, en moneda local, que se acredita al plan complet
 
 Leads captados, consultas agendadas, ventas cerradas, ingreso semanal (en USD), conversión de lead a venta, y clientes que repiten o refieren.
 
+## Cómo usarlo con Jarvis
+
+Este repositorio es solo documentación; el código de Jarvis vive en Jarvis-agents (Render). Para darle tareas, copia los prompts de [PROMPTS-JARVIS.md](PROMPTS-JARVIS.md) y pégalos en Telegram, uno por mensaje.
+
 ## Archivos
 
 - [jarvis-prompt.txt](jarvis-prompt.txt): prompt completo de Jarvis (archivo principal).
+- [PROMPTS-JARVIS.md](PROMPTS-JARVIS.md): los tres prompts de tareas y qué debe pasar con cada uno.
 - [RESUMEN-LLAMADA-2026-10-13.md](RESUMEN-LLAMADA-2026-10-13.md): resumen de la llamada.
